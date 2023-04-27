@@ -1,7 +1,7 @@
 # IRoanDiscordTheme
 A calm yellow theme that combines the best of Dark+ theme and OnePunch Theme for BetterDiscord
 
-#Installation
+# Installation
 1. Download the Onepunch.theme.css file and place it in your BetterDiscord themes folder
 2. Enable it
 3. Enjoy
