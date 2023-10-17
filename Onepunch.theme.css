@@ -11,10 +11,11 @@
 
 :root {
   --header-primary: #b8bb26;
+  --background-secondary : #1d2021;
   --darkplus-bg: #1d2021;
   --darkplus-bg2: #484f5252;
   --darkplus-sec: #d5c4a1;
   --darkplus-links: #b8bb26;
   --channels-default : #bad1949f;
-  --darkplus-home-icon: url(https://apex.iroan.net/assets/nessie-ba4beb7e.ico);
+  --darkplus-home-icon: url(https://apex.roan.dev/assets/nessie-ba4beb7e.ico);
 }
